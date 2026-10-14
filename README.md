@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Robotics-Scientific-Computing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Robotics-Scientific-Computing?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Robotics-Scientific-Computing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Robotics-Scientific-Computing?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Robotics-Scientific-Computing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Robotics-Scientific-Computing?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Robotics-Scientific-Computing/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Robotics-Scientific-Computing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"/></a>
@@ -451,8 +451,8 @@ Contributions are warmly welcomed! Help expand and refine this ecosystem directo
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-solver`).
 3. 📝 **Add or edit entries in `README.md`**:
    - Maintain the existing format with links, license, language, and key capabilities.
-   - For open-source tools, include the standard social star badge: `[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social&color=white)](https://github.com/OWNER/REPO/stargazers)`.
-   - Keep the open-source list strictly sorted by GitHub star counts.
+   - For open-source tools, include the standard social Stars_Badge: `[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social&color=white)](https://github.com/OWNER/REPO/stargazers)`.
+   - Keep the open-source list strictly sorted by GitHub Stars_Counts.
 4. 📬 **Submit a Pull Request** with a brief summary of the proposed addition.
 
 ---
